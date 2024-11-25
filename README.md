@@ -6,7 +6,7 @@
 <img src ="assento.png"/>
 
 
-PAra criar todo projeto usamos o react e foi criado components nele , listando eles tem:
+Para criar todo projeto usamos o react e foi criado components nele , listando eles tem:
 
 ## sinopse
  Aqui tem toda a parte de sinopse do trabalho em componente , nas pasta tem sinpose.js ( implementação do javascript em react ) e o sinopse.css ( toda parte de estilização)
