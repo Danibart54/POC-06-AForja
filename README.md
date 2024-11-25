@@ -245,7 +245,7 @@ Se houver múltiplos elementos (como textos ou botões dentro da .botao), eles s
 }
 ```
 
-### Esses foram os component s criado , agora tem os principais 
+### Esses foram os components criado , agora tem os principais 
 
 
 # page.js
