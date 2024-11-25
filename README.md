@@ -498,4 +498,6 @@ Preferência de cor escura (dark mode): O site pode detectar se o usuário prefe
 }
 ```
 
+<img src ="mediaquer.png"/>
+
 
