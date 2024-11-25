@@ -1,7 +1,7 @@
 # POC-06-a forja
  <img src="bannerPOC6.png"/>
 
-### Nessa prova conceito iremos explicar como criamos um site que simula a compra de ingressos do filme "A Forja".
+## Nessa prova conceito iremos explicar como criamos um site que simula a compra de ingressos do filme "A Forja".
 
 <img src ="assento.png"/>
 
@@ -245,11 +245,11 @@ Se houver múltiplos elementos (como textos ou botões dentro da .botao), eles s
 }
 ```
 
-###Esses foram os component s criado , agora tem os principais 
+### Esses foram os component s criado , agora tem os principais 
 
 
 # page.js
-NEle tem muitos recursos importantes e principais do projeto como :
+Nele tem muitos recursos importantes e principais do projeto como :
 
 
 ### Função toggleSeat
@@ -335,7 +335,7 @@ return (
   </div>
 ```
 
-#globals.css
+# globals.css
  
 ### Variáveis de Cores:
 
@@ -346,7 +346,7 @@ return (
 }
 ```
 
-###Propriedades para o body
+### Propriedades para o body
 ```css 
   body {
   display: flex;
@@ -380,7 +380,7 @@ a {
 
 # page.module.css
 
-###Estilizando o .tituloAForja e .Hora E TAMBÉM Estilos específicos para HORA
+### Estilizando o .tituloAForja e .Hora E TAMBÉM Estilos específicos para HORA
 
 ```css
 .tituloAForja,
